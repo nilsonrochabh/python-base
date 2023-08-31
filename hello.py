@@ -36,5 +36,5 @@ msg = {
 
 # Aqui aplicamos a condicional
 
-print(msg)
+print(msg[current_language])
 
